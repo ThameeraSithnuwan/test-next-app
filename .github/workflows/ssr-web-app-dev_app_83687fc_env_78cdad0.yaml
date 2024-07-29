@@ -5,6 +5,9 @@ name: ssr-web-app-dev_app_83687fc_env_78cdad0 Pipeline (Skyu Generated)
       - main
     paths-ignore:
       - .github/workflows/**
+      - .trivyignore
+      - Readme.md
+      - README.md
   workflow_dispatch: {}
   repository_dispatch:
     types: pipeline_cb0193ed-6ad5-45d9-8b1a-85ef33de46c4
